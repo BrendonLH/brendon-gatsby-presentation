@@ -1,5 +1,5 @@
 ---
-title: 5-Projects
+title: Projects
 description: Examples of Work
 ---
 

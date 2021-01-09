@@ -1,5 +1,5 @@
 ---
-title: 6-Company Target
+title: Company Target
 description: Future
 ---
 

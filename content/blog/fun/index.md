@@ -1,4 +1,4 @@
 ---
-title: 8- Quirks
+title: Quirks
 description: Personality
 ---

@@ -1,5 +1,5 @@
 ---
-title: 3-Competencies
+title: Competencies
 description: Competencies
 ---
 ### Confidence 

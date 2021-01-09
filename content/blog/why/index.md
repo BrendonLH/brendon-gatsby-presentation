@@ -1,5 +1,5 @@
 ---
-title: 7-Why
+title: Why
 description: Why bother
 ---
 

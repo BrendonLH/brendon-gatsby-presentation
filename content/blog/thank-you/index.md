@@ -1,4 +1,4 @@
 ---
-title: 9-Special Thanks
+title: Special Thanks
 description: Special thank you!
 ---

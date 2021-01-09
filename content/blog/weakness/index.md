@@ -1,5 +1,5 @@
 ---
-title: 4-Growth
+title: Growth
 description: Directed Growth
 ---
 

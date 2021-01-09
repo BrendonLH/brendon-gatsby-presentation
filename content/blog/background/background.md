@@ -1,5 +1,5 @@
 ---
-title: 2-Background
+title: Background
 description: Background info
 ---
 
