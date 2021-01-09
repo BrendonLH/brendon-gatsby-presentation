@@ -10,3 +10,7 @@ If there is an issue or going to be an issue and someone I know or myself can so
 
 ### Motivation
 Seeing the big picture is what motivates me. knowing what the end result can be and how I can make a difference keeps me motivated to see the task followed through. 
+
+<a href="https://jovial-goldwasser-8cea91.netlify.app/weakness/">
+   <p>Growth</p>
+</a>

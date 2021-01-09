@@ -28,3 +28,6 @@ description: Background info
 basically, I break everything down into very small pieces. once each piece cant be broken down then I can start working on that piece or move onto the next piece when finished.  
 
 
+<a href="https://jovial-goldwasser-8cea91.netlify.app/competencies/">
+   <p>Competencies</p>
+</a>

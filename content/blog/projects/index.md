@@ -15,3 +15,7 @@ description: Examples of Work
 <a href='https://food-app-final301.herokuapp.com/'>
     <img id="images" src="../../assets/MeMealsmall.png"/>
 </a>
+
+<a href="https://jovial-goldwasser-8cea91.netlify.app/company-target/">
+   <p>Target</p>
+</a>
